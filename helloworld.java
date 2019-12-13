@@ -1,4 +1,5 @@
 public static void main(string arg[])
 {
-  System.Out.println("hwllo world");
+  System.out.println("hwllo world");
+  System.out.println("helloworld, speed-1THz")
 }
